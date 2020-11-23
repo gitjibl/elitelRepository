@@ -1,0 +1,1 @@
+{ version: "JsClipper-v6.1.3.2" }

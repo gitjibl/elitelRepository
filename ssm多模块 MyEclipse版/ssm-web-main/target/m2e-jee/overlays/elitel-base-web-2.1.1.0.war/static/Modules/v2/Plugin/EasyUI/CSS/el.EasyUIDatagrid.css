@@ -1,0 +1,10 @@
+﻿.datagrid-header-rownumber,
+.datagrid-cell-rownumber {
+    /*行号宽度：4位数字，默认25px*/
+    width: 45px;
+}
+
+.pagination .pagination-num {
+    /*第x页文本框宽度：5位数字，默认2em*/
+    width: 3em;
+}

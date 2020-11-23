@@ -1,0 +1,1 @@
+{ version: "FontAwesome-v4.5.0" }
