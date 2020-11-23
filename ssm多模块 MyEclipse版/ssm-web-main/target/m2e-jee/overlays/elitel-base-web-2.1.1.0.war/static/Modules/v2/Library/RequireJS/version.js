@@ -1,1 +1,0 @@
-{ version: "RequireJS-v2.1.22" }

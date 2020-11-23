@@ -1,1 +1,0 @@
-{ version: "EasyUI-v1.4.4" }

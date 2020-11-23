@@ -1,1 +1,0 @@
-{ version: "Highcharts-v4.2.1" }

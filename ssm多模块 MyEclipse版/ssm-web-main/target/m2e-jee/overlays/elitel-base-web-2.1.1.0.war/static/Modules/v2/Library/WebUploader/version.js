@@ -1,1 +1,0 @@
-{ version: "WebUploader-v0.1.5" }

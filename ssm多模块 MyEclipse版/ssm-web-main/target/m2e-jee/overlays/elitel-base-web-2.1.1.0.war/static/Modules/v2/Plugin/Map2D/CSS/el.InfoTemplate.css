@@ -1,8 +1,0 @@
-﻿/*隐藏esri弹出窗口的缩放至按钮*/
-.esriPopup .actionsPane .zoomTo {
-    display: none;
-}
-/*隐藏esri弹出窗口的最大化按钮*/
-.esriPopup .titleButton.maximize {
-    display: none;
-}
