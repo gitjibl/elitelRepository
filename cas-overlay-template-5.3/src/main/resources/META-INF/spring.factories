@@ -1,4 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  net.sso.config.CustomAuthenticationConfiguration,\
-  net.sso.config.CustomerAuthWebflowConfiguration,\
-  net.sso.config.CustomControllerConfigurer
