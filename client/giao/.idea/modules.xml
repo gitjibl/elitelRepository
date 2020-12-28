@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/giao.iml" filepath="$PROJECT_DIR$/giao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/giao_main/giao_main.iml" filepath="$PROJECT_DIR$/giao_main/giao_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/giao_one/giao_one.iml" filepath="$PROJECT_DIR$/giao_one/giao_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/giao_two/giao_two.iml" filepath="$PROJECT_DIR$/giao_two/giao_two.iml" />
+    </modules>
+  </component>
+</project>

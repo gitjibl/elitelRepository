@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="giao" />
+        <module name="giao_main" />
+        <module name="giao_one" />
+        <module name="giao_two" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="giao" target="1.8" />
+      <module name="giao-demo-main" target="1.8" />
+      <module name="giao-demo-one" target="1.8" />
+      <module name="giao-demo-two" target="1.8" />
+      <module name="giao_main" target="1.8" />
+      <module name="giao_one" target="1.8" />
+      <module name="giao_two" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="giao" options="-parameters" />
+      <module name="giao-demo-main" options="-parameters" />
+      <module name="giao-demo-one" options="-parameters" />
+      <module name="giao-demo-two" options="-parameters" />
+      <module name="giao_main" options="-parameters" />
+      <module name="giao_one" options="-parameters" />
+      <module name="giao_two" options="-parameters" />
+    </option>
+  </component>
+</project>
